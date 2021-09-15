@@ -11,7 +11,7 @@ Experience: 4 years
 Age: 31 years old
 <br />
 <br />
-**Contact info**
+===Contact info===
 <br />
 Telegram: 
 <a href="https://t.me/panda_irk">
@@ -21,12 +21,12 @@ Telegram:
 Email: korum@list.ru
 <br />
 <br />
-**Professional skills**
+===Professional skills===
 <br />
 PHP, Symfony, Git, Linux, Nginx, Redis, Gitlab, JavaScript, CSS, Adaptive layout, React, Nest.js
 <br />
 <br />
-**About me**
+===About me===
 <br />
 Beside the main work professional areas that I am interested in are: 
 <br />
