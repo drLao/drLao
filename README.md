@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br />
-Name: Pavel Tsyganov, i'm web sofware devloper from Irkutsk, Russia.
+Name: Pavel Tsyganov, i'm web sofware developer from Irkutsk, Russia.
 <br />
 Location: Russia, Irkutsk
 <br />
